@@ -14,3 +14,6 @@
 ## API
 <a href="https://github.com/Free-APIs/Free-APIs.github.io">Free-APIs</a>
 <br>
+## Estudo/Mapa Mental
+<a href="https://chatmind.tech/pt">ChatMind</a>
+<br>
