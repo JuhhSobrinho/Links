@@ -1,8 +1,8 @@
 # Links
 
 ## Palheta De Cores 
-Coolors.co <a href="https://coolors.co/">
+<a href="https://coolors.co/">Coolors.co</a>
 <br>
 ## SVG
-Fontawesome <a herf="https://fontawesome.com/">
-Devicon <a herf="https://devicon.dev/">
+<a herf="https://fontawesome.com/">Fontawesome</a>
+<a herf="https://devicon.dev/">Devicon</a>
