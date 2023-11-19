@@ -6,4 +6,4 @@
 ## SVG
 <a href="https://fontawesome.com/">Fontawesome</a>
 <br>
-<a herf="https://devicon.dev/">Devicon</a>
+<a href="https://devicon.dev/">Devicon</a>
