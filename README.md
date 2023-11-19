@@ -19,7 +19,6 @@
 <br>
 <a href="https://insomnia.rest/products/insomnia">Insomnia</a>
 
-<br>
 ## Estudo/Mapa Mental
 <a href="https://chatmind.tech/pt">ChatMind</a>
 <br>
