@@ -12,7 +12,8 @@
 <a href="https://www.svgrepo.com/">SVGRepo</a>
 <br>
 <a href="https://www.flaticon.com/br/">Flaticon</a>
-
+<br>
+<a href="https://lordicon.com/icons/wired/outline">Lordicon</a>
 
 
 ## Design
