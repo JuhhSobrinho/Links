@@ -14,6 +14,8 @@
 <a href="https://www.flaticon.com/br/">Flaticon</a>
 <br>
 <a href="https://lordicon.com/icons/wired/outline">Lordicon</a>
+<br>
+<a href="https://lottiefiles.com/search?q=music&category=animations">Lottiefiles</a>
 
 
 ## Design
