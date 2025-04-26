@@ -33,6 +33,15 @@
 <br>
 <a href="https://insomnia.rest/products/insomnia">Insomnia</a>
 
+## Bando De Dados
+<a href="https://firebase.google.com/?hl=pt-br">firebase-NoSQL</a>
+<a href="https://supabase.com/">Supabase-SQL</a>
+<br>
+
+## Hospedagem
+<a href="https://www.netlify.com/">Netfily-estático + funções serverless.</a>
+<br>
+
 ## Estudo/Mapa Mental
 <a href="https://chatmind.tech/pt">ChatMind</a>
 <br>
